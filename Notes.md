@@ -6,4 +6,5 @@ OpenCV 支持 Python, Node, Java, C++ 等多种 SDK。
 * OpenCV for Go: https://hub.docker.com/r/gocv/opencv
 * OpenCV for Node
 * OpenCV for GPU
-* OpenCV for GitLab
+* OpenCV for Dotnet
+* OpenCV for Matlab
